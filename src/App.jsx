@@ -1,8 +1,10 @@
 import React from 'react';
 
 import Paths from './routes/Paths';
+
 const App = () => {
-  <Paths />
+  return (
+    <Paths />)
 };
 export default App;
 
